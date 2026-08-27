@@ -1,0 +1,21 @@
+email,nombre,area,cargo,estado,fecha_ingreso,fecha_retiro
+ana.rojas@alegra.com,Ana Rojas,IT,Líder de IT,activo,2022-03-01,
+diana.torres@alegra.com,Diana Torres,IT,Analista de soporte,activo,2024-05-02,
+santiago.vargas@alegra.com,Santiago Vargas,IT,Practicante,activo,2026-06-01,
+laura.gomez@alegra.com,Laura Gómez,People Ops,Coordinadora de People,activo,2023-02-01,
+lucia.herrera@alegra.com,Lucía Herrera,People Ops,Practicante,retirado,2026-01-20,2026-07-10
+ricardo.molina@alegra.com,Ricardo Molina,Ventas,Líder comercial,activo,2021-05-24,
+carlos.mendez@alegra.com,Carlos Méndez,Ventas,Ejecutivo comercial,activo,2023-06-12,
+pedro.salazar@alegra.com,Pedro Salazar,Ventas,SDR,retirado,2025-08-01,2025-03-15
+sandra.nino@alegra.com,Sandra Niño,Finanzas,Contadora,activo,2021-07-19,
+jorge.ramirez@alegra.com,Jorge Ramírez,Finanzas,Analista financiero,retirado,2022-09-05,2026-05-30
+felipe.castro@alegra.com,Felipe Castro,Producto,Product Manager,activo,2022-11-10,
+natalia.quintero@alegra.com,Natalia Quintero,Producto,Product Designer,activo,2024-03-11,
+juan.perez@alegra.com,Juan Pérez,Diseño,Diseñador de producto,activo,2024-01-15,
+valentina.ruiz@alegra.com,Valentina Ruiz,Diseño,UX Researcher,activo,2025-02-17,
+maria.lopez@alegra.com,María Fernanda López,Marketing,Especialista de contenido,activo,2023-11-20,
+paula.cardenas@alegra.com,Paula Cárdenas,Marketing,Practicante,activo,2026-06-01,
+andres.velez@alegra.com,Andrés Vélez,Ingeniería,Backend developer,activo,2023-04-03,
+camila.duarte@alegra.com,Camila Duarte,Ingeniería,Frontend developer,activo,2024-08-26,
+oscar.pinto@alegra.com,Óscar Pinto,Ingeniería,DevOps engineer,activo,2023-01-09,
+soporte.general@alegra.com,Soporte General,IT,Cuenta compartida,activo,2020-01-01,

@@ -1,0 +1,34 @@
+email,nombre_titular,producto,plan,estado,costo_mensual_usd,fecha_asignacion
+ana.rojas@alegra.com,Ana Rojas,Google Workspace,Business Standard,activa,12,2022-03-01
+diana.torres@alegra.com,Diana Torres,Google Workspace,Business Standard,activa,12,2024-05-02
+santiago.vargas@alegra.com,Santiago Vargas,Google Workspace,Business Standard,activa,12,2026-06-01
+laura.gomez@alegra.com,Laura Gómez,Google Workspace,Business Standard,activa,12,2023-02-01
+lucia.herrera@alegra.com,Lucía Herrera,Google Workspace,Business Standard,suspendida,12,2026-01-20
+ricardo.molina@alegra.com,Ricardo Molina,Google Workspace,Business Standard,activa,12,2021-05-24
+ricardo.molina@alegra.com,Ricardo Molina,Salesforce,Sales Cloud,activa,80,2021-06-01
+carlos.mendez@alegra.com,Carlos Méndez,Google Workspace,Business Standard,activa,12,2023-06-12
+carlos.mendez@alegra.com,Carlos Méndez,Salesforce,Sales Cloud,activa,80,2023-06-15
+pedro.salazar@alegra.com,Pedro Salazar,Google Workspace,Business Standard,suspendida,12,2025-08-01
+sandra.nino@alegra.com,Sandra Niño,Google Workspace,Business Standard,activa,12,2021-07-19
+jorge.ramirez@alegra.com,Jorge Ramírez,Google Workspace,Business Standard,activa,12,2022-09-05
+jorge.ramirez@alegra.com,Jorge Ramírez,Salesforce,Sales Cloud,activa,80,2023-02-10
+felipe.castro@alegra.com,Felipe Castro,Google Workspace,Business Standard,activa,12,2022-11-10
+natalia.quintero@alegra.com,Natalia Quintero,Google Workspace,Business Standard,activa,12,2024-03-11
+natalia.quintero@alegra.com,Natalia Quintero,Figma,Professional,activa,15,2024-03-15
+juan.perez@alegra.com,Juan Pérez,Google Workspace,Business Standard,activa,12,2024-01-15
+juan.perez@alegra.com,Juan Pérez,Figma,Professional,activa,15,2024-01-20
+jperez@alegra.com,Juan Perez,Figma,Professional,activa,15,2023-05-08
+valentina.ruiz@alegra.com,Valentina Ruiz,Google Workspace,Business Standard,activa,12,2025-02-17
+valentina.ruiz@alegra.com,Valentina Ruiz,Figma,Professional,activa,15,2025-02-20
+maria.lopez@alegra.com,María Fernanda López,Google Workspace,Business Standard,activa,12,2023-11-20
+maria.lopez@alegra.com,María Fernanda López,Figma,Professional,activa,15,2024-01-10
+maria.lopez@alegra.com,María Fernanda López,Salesforce,Sales Cloud,activa,80,2024-06-05
+paula.cardenas@alegra.com,Paula Cárdenas,Google Workspace,Business Standard,activa,12,2026-06-01
+andres.velez@alegra.com,Andrés Vélez,Google Workspace,Business Standard,activa,12,2023-04-03
+andres.velez@alegra.com,Andrés Vélez,GitHub,Team,activa,4,2023-04-05
+camila.duarte@alegra.com,Camila Duarte,Google Workspace,Business Standard,activa,12,2024-08-26
+camila.duarte@alegra.com,Camila Duarte,GitHub,Team,activa,4,2024-08-28
+oscar.pinto@alegra.com,Óscar Pinto,Google Workspace,Business Standard,activa,12,2023-01-09
+oscar.pinto@alegra.com,Óscar Pinto,GitHub,Team,activa,4,2023-01-10
+dev.externo@alegra.com,(sin registro),GitHub,Team,activa,4,2025-06-15
+soporte.general@alegra.com,Soporte General,Google Workspace,Business Standard,activa,12,2020-01-01
